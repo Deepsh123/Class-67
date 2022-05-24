@@ -1,0 +1,22 @@
+.line {
+    height:6px;
+    background-color:black;
+    width:70px;
+    margin:8px auto;
+}
+body {
+    text-align: center;
+
+}
+#apps {
+    background:linear-gradient(#b2d7db 0%,#3d0257 100%);
+}
+#chatbots {
+    background: linear-gradient(#7f40a8 0%,#c697c7 100%);
+}
+#games {
+    background: linear-gradient(#dbe3cc 0%,#a17333 100%);
+}
+#myCarousel {
+    background: linear-gradient(#dbe3cc 0%,#a17333 100%);
+}
